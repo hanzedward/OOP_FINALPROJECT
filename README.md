@@ -1,4 +1,5 @@
 Restaurant Management System
+
 I. Project Overview
 
 This project is a Java-based Restaurant Management System designed to manage table reservations, orders, and receipts in a restaurant. The system allows users to:
@@ -10,6 +11,7 @@ View all placed orders.
 The program uses Object-Oriented Programming (OOP) principles such as encapsulation, inheritance, and polymorphism to create an efficient and extensible system.
 
 II. Explanation of OOP Principles Applied
+
 Encapsulation: Data such as the table status, menu item details, and order information are encapsulated in respective classes like Table, MenuItem, and Order. Access to these attributes is controlled through getters and setters.
 
 Inheritance: The Item class is an abstract class, and MenuItem extends this class to represent specific items in the menu. This showcases the relationship between general and specific classes.
@@ -19,9 +21,11 @@ Polymorphism: The getDetails() method is overridden in the MenuItem class to dis
 Abstraction: The Item class serves as an abstract representation of items, with specific details abstracted in its subclasses (such as MenuItem). This helps keep the code simple and focused on only relevant data.
 
 III. Integration of SDG (Sustainable Development Goals)
+
 This project aligns with SDG 12: Responsible Consumption and Production. By providing detailed menu descriptions, including dietary restrictions (e.g., vegetarian, gluten-free, vegan), it encourages responsible food choices and helps customers make informed decisions based on their dietary needs. The system can also be extended in the future to include options for food waste reduction or tracking consumption patterns.
 
 IV. Instructions for Running the Program
+
 1.Clone the Repository:
 git clone https://github.com/your-username/restaurant-management-system.git
 
