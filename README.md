@@ -25,12 +25,12 @@ III. Integration of SDG (Sustainable Development Goals)
 This project aligns with SDG 12: Responsible Consumption and Production. By providing detailed menu descriptions, including dietary restrictions (e.g., vegetarian, gluten-free, vegan), it encourages responsible food choices and helps customers make informed decisions based on their dietary needs. The system can also be extended in the future to include options for food waste reduction or tracking consumption patterns.
 
 IV. Instructions for Running the Program
-
+exp.
 1.Clone the Repository:
-git clone https://github.com/your-username/restaurant-management-system.git
+git clone https://github.com/hanzedward/OOP_FINALPROJECT.git
 
 2.Navigate to the Project Folder:
-cd restaurant-management-system
+cd RestaurantSystem
 
 3.Compile the Program:
 javac -d bin src/*.java
