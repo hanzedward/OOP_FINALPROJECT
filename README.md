@@ -1,5 +1,6 @@
 Restaurant Management System
 I. Project Overview
+
 This project is a Java-based Restaurant Management System designed to manage table reservations, orders, and receipts in a restaurant. The system allows users to:
 
 Reserve tables.
